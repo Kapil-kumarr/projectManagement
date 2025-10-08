@@ -1,20 +1,14 @@
 {
   "name": "projmanagement",
   "version": "1.0.0",
-  "description": "a project management application for beginners",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "keywords": [
-    "udemy",
-    "course",
-    "backend",
-    "API",
-    "creation"
-  ],
+  "keywords": [],
   "author": "Kapil Kumar",
   "license": "ISC",
   "devDependencies": {
